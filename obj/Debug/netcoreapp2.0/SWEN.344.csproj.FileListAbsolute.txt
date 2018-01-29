@@ -1,0 +1,11 @@
+/Users/kylescagnelli/Documents/SWEN.344/Hello World/bin/Debug/netcoreapp2.0/SWEN.344.deps.json
+/Users/kylescagnelli/Documents/SWEN.344/Hello World/bin/Debug/netcoreapp2.0/SWEN.344.runtimeconfig.json
+/Users/kylescagnelli/Documents/SWEN.344/Hello World/bin/Debug/netcoreapp2.0/SWEN.344.runtimeconfig.dev.json
+/Users/kylescagnelli/Documents/SWEN.344/Hello World/bin/Debug/netcoreapp2.0/SWEN.344.dll
+/Users/kylescagnelli/Documents/SWEN.344/Hello World/bin/Debug/netcoreapp2.0/SWEN.344.pdb
+/Users/kylescagnelli/Documents/SWEN.344/Hello World/obj/Debug/netcoreapp2.0/SWEN.344.csprojResolveAssemblyReference.cache
+/Users/kylescagnelli/Documents/SWEN.344/Hello World/obj/Debug/netcoreapp2.0/SWEN.344.csproj.CoreCompileInputs.cache
+/Users/kylescagnelli/Documents/SWEN.344/Hello World/obj/Debug/netcoreapp2.0/SWEN.344.AssemblyInfoInputs.cache
+/Users/kylescagnelli/Documents/SWEN.344/Hello World/obj/Debug/netcoreapp2.0/SWEN.344.AssemblyInfo.cs
+/Users/kylescagnelli/Documents/SWEN.344/Hello World/obj/Debug/netcoreapp2.0/SWEN.344.dll
+/Users/kylescagnelli/Documents/SWEN.344/Hello World/obj/Debug/netcoreapp2.0/SWEN.344.pdb

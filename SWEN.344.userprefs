@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{48045AE6-0215-4909-ABF8-9C00D69FEDD6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.cshtml">
+    <Files>
+      <File FileName="Pages/Index.cshtml" Line="18" Column="7" />
+      <File FileName="Pages/Contact.cshtml" Line="16" Column="1" />
+      <File FileName="Pages/About.cshtml" Line="9" Column="1" />
+      <File FileName="Pages/_Layout.cshtml" Line="29" Column="71" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SWEN.344 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
